@@ -16,6 +16,15 @@
 		021C322226B32DB6009C77CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 021C322026B32DB6009C77CC /* LaunchScreen.storyboard */; };
 		021C322D26B32DB6009C77CC /* miniProject2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C322C26B32DB6009C77CC /* miniProject2Tests.swift */; };
 		021C323826B32DB6009C77CC /* miniProject2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C323726B32DB6009C77CC /* miniProject2UITests.swift */; };
+		021C324626B33133009C77CC /* italianViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C324526B33133009C77CC /* italianViewController.swift */; };
+		021C324826B33209009C77CC /* japaneseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C324726B33209009C77CC /* japaneseViewController.swift */; };
+		021C324A26B33251009C77CC /* mexicanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C324926B33251009C77CC /* mexicanViewController.swift */; };
+		021C324C26B3463C009C77CC /* mexicanCasualViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C324B26B3463C009C77CC /* mexicanCasualViewController.swift */; };
+		021C324E26B34740009C77CC /* fancyMexicanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C324D26B34740009C77CC /* fancyMexicanViewController.swift */; };
+		021C325026B3485B009C77CC /* japaneseCasualViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C324F26B3485B009C77CC /* japaneseCasualViewController.swift */; };
+		021C325226B3494D009C77CC /* japaneseFancyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C325126B3494D009C77CC /* japaneseFancyViewController.swift */; };
+		021C325426B34A4C009C77CC /* italianCasualViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C325326B34A4C009C77CC /* italianCasualViewController.swift */; };
+		021C325626B34A5C009C77CC /* italianFancyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021C325526B34A5C009C77CC /* italianFancyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,15 @@
 		021C323326B32DB6009C77CC /* miniProject2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = miniProject2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		021C323726B32DB6009C77CC /* miniProject2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = miniProject2UITests.swift; sourceTree = "<group>"; };
 		021C323926B32DB6009C77CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		021C324526B33133009C77CC /* italianViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = italianViewController.swift; sourceTree = "<group>"; };
+		021C324726B33209009C77CC /* japaneseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = japaneseViewController.swift; sourceTree = "<group>"; };
+		021C324926B33251009C77CC /* mexicanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mexicanViewController.swift; sourceTree = "<group>"; };
+		021C324B26B3463C009C77CC /* mexicanCasualViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mexicanCasualViewController.swift; sourceTree = "<group>"; };
+		021C324D26B34740009C77CC /* fancyMexicanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fancyMexicanViewController.swift; sourceTree = "<group>"; };
+		021C324F26B3485B009C77CC /* japaneseCasualViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = japaneseCasualViewController.swift; sourceTree = "<group>"; };
+		021C325126B3494D009C77CC /* japaneseFancyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = japaneseFancyViewController.swift; sourceTree = "<group>"; };
+		021C325326B34A4C009C77CC /* italianCasualViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = italianCasualViewController.swift; sourceTree = "<group>"; };
+		021C325526B34A5C009C77CC /* italianFancyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = italianFancyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +123,15 @@
 				021C321426B32DB3009C77CC /* SceneDelegate.swift */,
 				021C321626B32DB3009C77CC /* ViewController.swift */,
 				021C321826B32DB3009C77CC /* Main.storyboard */,
+				021C325326B34A4C009C77CC /* italianCasualViewController.swift */,
+				021C325526B34A5C009C77CC /* italianFancyViewController.swift */,
+				021C325126B3494D009C77CC /* japaneseFancyViewController.swift */,
+				021C324F26B3485B009C77CC /* japaneseCasualViewController.swift */,
+				021C324D26B34740009C77CC /* fancyMexicanViewController.swift */,
+				021C324B26B3463C009C77CC /* mexicanCasualViewController.swift */,
+				021C324926B33251009C77CC /* mexicanViewController.swift */,
+				021C324726B33209009C77CC /* japaneseViewController.swift */,
+				021C324526B33133009C77CC /* italianViewController.swift */,
 				021C321E26B32DB6009C77CC /* Assets.xcassets */,
 				021C322026B32DB6009C77CC /* LaunchScreen.storyboard */,
 				021C322326B32DB6009C77CC /* Info.plist */,
@@ -261,10 +288,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				021C324E26B34740009C77CC /* fancyMexicanViewController.swift in Sources */,
 				021C321726B32DB3009C77CC /* ViewController.swift in Sources */,
+				021C325626B34A5C009C77CC /* italianFancyViewController.swift in Sources */,
 				021C321326B32DB3009C77CC /* AppDelegate.swift in Sources */,
 				021C321526B32DB3009C77CC /* SceneDelegate.swift in Sources */,
+				021C324C26B3463C009C77CC /* mexicanCasualViewController.swift in Sources */,
+				021C324A26B33251009C77CC /* mexicanViewController.swift in Sources */,
+				021C325426B34A4C009C77CC /* italianCasualViewController.swift in Sources */,
 				021C321D26B32DB4009C77CC /* miniProject2.xcdatamodeld in Sources */,
+				021C324626B33133009C77CC /* italianViewController.swift in Sources */,
+				021C325226B3494D009C77CC /* japaneseFancyViewController.swift in Sources */,
+				021C325026B3485B009C77CC /* japaneseCasualViewController.swift in Sources */,
+				021C324826B33209009C77CC /* japaneseViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
