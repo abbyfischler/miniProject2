@@ -785,10 +785,11 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="66x-5X-xHZ"/>
         <segue reference="2Ma-eK-yHU"/>
         <segue reference="L9N-db-IDv"/>
         <segue reference="DUh-Ou-4ar"/>
-        <segue reference="VYj-bZ-bSg"/>
+        <segue reference="mEQ-4E-WQA"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="LAEATS" width="500" height="500"/>
