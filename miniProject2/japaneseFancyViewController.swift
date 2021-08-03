@@ -20,7 +20,7 @@ class japaneseFancyViewController: UIViewController {
         restaurant1.text = "Koi"
     }
     @IBAction func option2Tapped(_ sender: UIButton) {
-        restaurant2.text = "Nobu"
+        restaurant2.text = "Nobuuuu"
     }
     
     @IBOutlet weak var restaurant1: UILabel!
